@@ -2,10 +2,10 @@ import React from 'react'
 
 function Contact() {
   return (
-    <div id='Contact'>
+    <div id='Contact'  className="scroll-smooth">
         <div  className='text-center justify-center'>
              <h1 className=' font-bold mt-12 text-4xl'>Contact</h1>
-             <h2 className='mt-12'>Feel free to reach out to me on the following platfofms or via email:</h2>
+             <h2 className='mt-12'>Feel free to reach out to me on the following platforms or via email:</h2>
         </div>
         <div className="flex flex-col items-center space-y-3 mt-1">
           {/* LinkedIn */}

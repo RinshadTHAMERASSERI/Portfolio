@@ -10,9 +10,9 @@ function App() {
    <>
    <main>
       <Home/>
+      <Aboute/>
       <Skills/>
       <Projects/>
-      <Aboute/>
       <Contact/>
       
       </main>

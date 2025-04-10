@@ -6,7 +6,7 @@ function Home() {
 
   return (
     <div
-      className="relative w-full h-screen  items-center justify-center bg-no-repeate bg-center bg-cover"
+      className="relative w-full h-screen  items-center justify-center bg-no-repeate bg-center bg-cover scroll-smooth"
       style={{ backgroundImage: `url(${bgImage})` }}
       
     >

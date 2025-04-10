@@ -4,7 +4,7 @@ import { SiStarbucks,SiKtm,SiFlipkart } from "react-icons/si";
 
 function Projects() {
   return (
-   <div id='Project'>
+   <div id='Project'  className="scroll-smooth">
     <p className='text-center mt-12 font-bold text-4xl'>Projects</p>
     <div className='grid grid-cols-3 gap-3 flex text-center text-bold mt-12'>
         <div>

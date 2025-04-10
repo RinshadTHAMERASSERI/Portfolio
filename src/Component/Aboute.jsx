@@ -2,32 +2,33 @@ import React from 'react'
 
 function Aboute() {
   return (
-    <div  id='About'>
+    <div  id='About scroll-smooth'>
      <div  >
         
         <h1 className=' mt-28 text-4xl font-bold mb-4 text-center'>AbouteMe</h1>
         <div className='flex mt-28  '>
         <div className=' inset-shadow-sm inset-shadow-indigo-500  '>
-        <img src="public/WhatsApp Image 2025-01-02 at 00.49.43_ea9bdcea.jpg" alt="" className='mx-auto w-[850px] h-[350px] square-full ml-10' />
+        <img src="public/WhatsApp Image 2025-01-02 at 00.49.43_ea9bdcea.jpg" alt="" className='mx-auto w-[350px] h-[350px] square-full ml-20' />
         </div>
-        <div className='ml-11' >
+        <div className='pl-10   text-1xl' >
          
-           <p>I am a passionate and detail-oriented MERN stack developer, eager to kickstart my career in web development. <br />
-With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I possess a strong understanding of both front-end and back-end development.
-My experience includes building dynamic and responsive web applications, creating RESTful APIs, and implementing robust database solutions.
-
-Here are some of my key skills:
-             </p>
+           <p>I am a passionate and detail-oriented MERN stack developer, eager to kickstart my career in web<br /> development. 
+With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I possess a <br /> strong understanding of both 
+ front-end and back-end development.My experience includes building  <br />dynamic and responsive web applications, creating RESTful APIs, and implementing robust database <br />solutions.
+ </p>
+ <h2>Here are some of my key skills:</h2>
+            
              <ul  className="list-disc list-inside text-lg">
                 <li>proficiency in java Script,HTML,and CSS</li>
                 <li>Experience With React.js for Building Intractive User InterFaces</li>
                 <li> knowlwdge of Node.js and Expres for server-side logic</li>
                 <li> Familarity with MongoDB for Data Base Management</li>
              </ul>
-             <br /><br />
+             <br />
              <p>
-             iam enthusiastic about learning new technologies,solving complex problems,and colaaborating in a team environment.my goal is to grow as a
-              proffesionel while contributing to innovative and imbact full projects.
+             "I am enthusiastic about learning new technologies, solving complex problems, and collaborating in a <br />team environment. My goal is to grow as a professional while contributing to innovative and impactful projects."
+
+
            <br /><br />
             let's connect ! i'm exited to explore modern web technolgies together.  
 
