@@ -10,7 +10,7 @@ function Projects() {
         <div>
           <div className='bg-white p-7 rounded-2xl shadow-xl flex flex-col items-center  transition delay-150 duration-300 ease-in-out hover:-translate-y-1 hover:scale-110'>
           < SiFlipkart className='text-yellow-400 w-20 h-20 '/>
-          <h1 className='font-bold'>Commerce Website</h1>
+          <h1 className='font-bold '>Commerce Website</h1>
           </div>
           </div>
         <div className=''>

@@ -1,4 +1,4 @@
-import Aboute from "./Component/Aboute"
+import Aboute from "./Component/About"
 import Contact from "./Component/Contact"
 import Home from "./Component/Home"
 import Projects from "./Component/Projects"

@@ -1,12 +1,12 @@
 import React from 'react'
 
-function Aboute() {
+function About() {
   return (
-    <div  id='About scroll-smooth'>
+    <div  id='About'>
      <div  >
         
-        <h1 className=' mt-28 text-4xl font-bold mb-4 text-center'>AbouteMe</h1>
-        <div className='flex mt-28  '>
+        <h1 className=' mt-28 text-4xl font-bold mb-4 text-center'>About Me</h1>
+        <div className=' flex flex-col md:flex-row items-start gap-6 p-6mt-28  '>
         <div className=' inset-shadow-sm inset-shadow-indigo-500  '>
         <img src="public/WhatsApp Image 2025-01-02 at 00.49.43_ea9bdcea.jpg" alt="" className='mx-auto w-[350px] h-[350px] square-full ml-20' />
         </div>
@@ -40,4 +40,4 @@ With a solid foundation in MongoDB, Express.js, React.js, and Node.js, I possess
   )
 }
 
-export default Aboute
+export default About

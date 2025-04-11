@@ -12,9 +12,9 @@ function Home() {
     >
 
       <div className="flex justify-center space-x-10 font-bold p-8   text-gray-500 ">
-      <a href="#Skills" className=" hover:text-green-900 overflow-auto h-48">Skills </a>
+      <a href="#Skills" className=" hover:text-green-900 overflow-auto h-48 ">Skills </a>
       <a href="#Project" className="hover:text-green-900">Project</a>
-      <a  href='#About' className="hover:text-green-900">Aboute</a>
+      <a  href='#About' className="hover:text-green-900">About</a>
       <a href="#Contact" className="hover:text-green-900">Contact</a>
       </div>
       <div>

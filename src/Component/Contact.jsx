@@ -10,7 +10,7 @@ function Contact() {
         <div className="flex flex-col items-center space-y-3 mt-1">
           {/* LinkedIn */}
           <a
-            href="#"
+            href="https://www.linkedin.com/in/rinshad-tm-098017341"
             className="flex items-center space-x-2 text-blue-500 "
           >
             <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
@@ -21,7 +21,7 @@ function Contact() {
 
           {/* GitHub */}
           <a
-            href="#"
+            href="https://github.com/RinshadTHAMERASSERI"
             className="flex items-center space-x-2 text-blue-500 "
           >
             <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
@@ -32,7 +32,7 @@ function Contact() {
 
           {/* Email */}
           <a
-            href="mail:to:rinshadthamerasseri@gmail.com"
+            href="https://mail.google.com/mail/u/0/#inbox"
             className="flex items-center space-x-2 text-blue-500"
           >
             <svg className="w-5 h-5 fill-current" viewBox="0 0 24 24">
